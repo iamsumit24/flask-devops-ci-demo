@@ -1,4 +1,4 @@
-# 🚀 Vaibhavi Flask DevOps Project
+# 🚀  Flask DevOps Project
 
 This project is a basic **Flask web app** created for DevOps learning. It includes:
 
@@ -11,7 +11,7 @@ This project is a basic **Flask web app** created for DevOps learning. It includ
 
 ## 📁 Project Structure
 
-vaibhavi-flask-app/
+flask-app/
 │
 ├── app.py # Flask web application
 ├── test_app.py # Pytest test cases
